@@ -37,7 +37,7 @@ This project was developed by the Team CyOps and Dr. Thu Yein Win (Thomas) on be
     James Briggs
     
 <i>Story and Plot Design:</i>
-    Cassey Beach, Jack Sperduti, Molly Dewis, Nathan Davies
+    Cassey Beach, Jack Sperduti, Molly Dewis, Nathen Davies
     
 The Task consists of 3 components, two of which are Targets of Evaluation - A vulnerable webserver and a Linux machine. The other component features a set of social media pages which are used in the social engineering part of the activity.
 
