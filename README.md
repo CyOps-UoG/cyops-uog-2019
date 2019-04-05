@@ -14,7 +14,7 @@ them to have a hands-on experience of what the course consists of.
 
  ***This project was exhibited at CRESTCON 2019***
  
- <img src="https://media.licdn.com/dms/image/C4D22AQGrmm4kzUPV2g/feedshare-shrink_8192/0?e=1553972400&v=beta&t=MROUHnQX3Xi03BZOyv2n4dr0vk-i7X9-SQ9T6VZQafU"></br>
+ <img src="https://media.licdn.com/dms/image/C4D22AQGrmm4kzUPV2g/feedshare-shrink_8192/0?e=1554530400&v=beta&t=o8PZjtuVyS00XDp2he2-FT4bJFfkQdVhwuGAqxzta68"></br>
  
  CyOps Team (From left to right: Cassey Beach, Molly Dewis, Harry Barron, James Briggs, Jack Sperduti, Nathen Davies, Dr. Thu Yein Win (Thomas), and Kieren Stanton)
  
