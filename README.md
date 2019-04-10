@@ -7,14 +7,14 @@ This repository contains the University of Gloucestershire's CyOps project, and 
 
   
 
-{Insert CyOps Logo} <img src="https://www.jobs.ac.uk/images/employer-logos/medium/152.gif" width="200" align=middle> <br/>
+<img src="https://github.com/CyOps-UoG/cyops-uog-2019/blob/master/CyOps.png" height="120" align=left> <img src="https://www.jobs.ac.uk/images/employer-logos/medium/152.gif" width="200" align=middle> <br/>
 
 CyOps is a set of vulnerable virtual machines used by the University of Gloucestershire as a part of our Applicant Day activity allowing
 them to have a hands-on experience of what the course consists of.
 
  ***This project was exhibited at CRESTCON 2019***
  
- <img src="https://media.licdn.com/dms/image/C4D22AQGrmm4kzUPV2g/feedshare-shrink_8192/0?e=1554530400&v=beta&t=o8PZjtuVyS00XDp2he2-FT4bJFfkQdVhwuGAqxzta68"></br>
+ <img src="https://media.licdn.com/dms/image/C4D22AQGrmm4kzUPV2g/feedshare-shrink_8192/0?e=1554530400&v=beta&t=o8PZjtuVyS00XDp2he2-FT4bJFfkQdVhwuGAqxzta68"></br> </br>
  
  CyOps Team (From left to right: Cassey Beach, Molly Dewis, Harry Barron, James Briggs, Jack Sperduti, Nathen Davies, Dr. Thu Yein Win (Thomas), and Kieren Stanton)
  
