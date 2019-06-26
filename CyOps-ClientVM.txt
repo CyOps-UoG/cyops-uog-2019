@@ -1,0 +1,1 @@
+Link to download the client VM OVA image: https://www.dropbox.com/s/fck7y2nif0pattk/Applicant_Client.ova?dl=0
